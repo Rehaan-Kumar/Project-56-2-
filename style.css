@@ -1,0 +1,29 @@
+body {
+    background-color: cyan;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+h4 {
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.img {
+    width:500px;
+    height: 500px;
+}
+.text {
+    font-size: 30px;
+    color: red;
+    font-style: italic;
+}
